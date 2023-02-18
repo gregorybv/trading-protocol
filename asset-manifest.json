@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trading-protocol/static/css/main.c2ea187c.css",
+    "main.js": "/trading-protocol/static/js/main.59d78108.js",
+    "static/media/video.mp4": "/trading-protocol/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/terminal.png": "/trading-protocol/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/trading-protocol/index.html",
+    "main.c2ea187c.css.map": "/trading-protocol/static/css/main.c2ea187c.css.map",
+    "main.59d78108.js.map": "/trading-protocol/static/js/main.59d78108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2ea187c.css",
+    "static/js/main.59d78108.js"
+  ]
+}
