@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bf7673e-2c63-42dd-b56a-dd68c5bfd31f" name="Changes" comment="footer and project final" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lu8N8PENZCr7GMVrwuvSE9EPEi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Coding/React projects/trading-protocol",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bf7673e-2c63-42dd-b56a-dd68c5bfd31f" name="Changes" comment="" />
+      <created>1676709564519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676709564519</updated>
+      <workItem from="1676709565768" duration="7625000" />
+    </task>
+    <task id="LOCAL-00001" summary="install tailwind">
+      <created>1676709944267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676709944267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="project preparation">
+      <created>1676710006978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676710006978</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new name project">
+      <created>1676710051613</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676710051613</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add image in project">
+      <created>1676710264708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676710264708</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add navbar component in project">
+      <created>1676710409910</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676710409910</updated>
+    </task>
+    <task id="LOCAL-00006" summary="navbar final">
+      <created>1676712361251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676712361252</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add hero component">
+      <created>1676712431606</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676712431606</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hero final">
+      <created>1676713183296</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676713183296</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add about component">
+      <created>1676713233887</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676713233887</updated>
+    </task>
+    <task id="LOCAL-00010" summary="final about and aboutcard">
+      <created>1676714775258</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676714775258</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add developers component">
+      <created>1676714841830</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676714841830</updated>
+    </task>
+    <task id="LOCAL-00012" summary="final developers">
+      <created>1676715218393</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676715218393</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add subscribe component">
+      <created>1676715268876</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676715268876</updated>
+    </task>
+    <task id="LOCAL-00014" summary="final subscribe">
+      <created>1676715725271</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676715725271</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add footer component">
+      <created>1676715775161</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676715775161</updated>
+    </task>
+    <task id="LOCAL-00016" summary="footer and project final">
+      <created>1676716330380</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676716330380</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="install tailwind" />
+    <MESSAGE value="project preparation" />
+    <MESSAGE value="new name project" />
+    <MESSAGE value="add image in project" />
+    <MESSAGE value="add navbar component in project" />
+    <MESSAGE value="navbar final" />
+    <MESSAGE value="add hero component" />
+    <MESSAGE value="hero final" />
+    <MESSAGE value="add about component" />
+    <MESSAGE value="final about and aboutcard" />
+    <MESSAGE value="add developers component" />
+    <MESSAGE value="final developers" />
+    <MESSAGE value="add subscribe component" />
+    <MESSAGE value="final subscribe" />
+    <MESSAGE value="add footer component" />
+    <MESSAGE value="footer and project final" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer and project final" />
+  </component>
+</project>
