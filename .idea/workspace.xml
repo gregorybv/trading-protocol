@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bf7673e-2c63-42dd-b56a-dd68c5bfd31f" name="Changes" comment="footer and project final" />
+    <list default="true" id="8bf7673e-2c63-42dd-b56a-dd68c5bfd31f" name="Changes" comment="footer and project final">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/Coding/React projects/trading-protocol",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -41,6 +47,8 @@
       <option name="presentableId" value="Default" />
       <updated>1676709564519</updated>
       <workItem from="1676709565768" duration="7625000" />
+      <workItem from="1676821592600" duration="324000" />
+      <workItem from="1677142617218" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="install tailwind">
       <created>1676709944267</created>
